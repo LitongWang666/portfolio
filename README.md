@@ -6,3 +6,4 @@ I am an international student, and I currently study MSPPM project
 I want to learn visualization and how to make data clear and easy to read
 # Portfolio
 You should probably hire me
+[My data](/litongwdataviz2.md)
