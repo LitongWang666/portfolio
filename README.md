@@ -9,6 +9,6 @@ You should probably hire me
 # Data
 [My data](/litongwdataviz2.md)
 # GDP
-[Data]This is my GDP data1(https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata/GDPDATA)
+[Data](https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata/GDPDATA)
 # GDP 2
-[Data]This is my GDP data2(https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata2/GDPDATA)
+[Data2](https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata2/GDPDATA)
