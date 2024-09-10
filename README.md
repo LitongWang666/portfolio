@@ -8,3 +8,5 @@ I want to learn visualization and how to make data clear and easy to read
 You should probably hire me
 # Data
 [My data](/litongwdataviz2.md)
+# GDP
+[Data](https://github.com/LitongWang666/portfolio/blob/main/gdp)
