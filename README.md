@@ -11,4 +11,4 @@ You should probably hire me
 # GDP
 [Data](https://public.tableau.com/views/GDPdata2/GDPDATA?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 # GDP 2
-[Data2](https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata2/GDPDATA)
+[Data2](https://public.tableau.com/views/GDPdata_17259368393110/GDPDATA?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
