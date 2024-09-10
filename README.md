@@ -9,4 +9,4 @@ You should probably hire me
 # Data
 [My data](/litongwdataviz2.md)
 # GDP
-[Data](https://github.com/LitongWang666/portfolio/blob/main/gdp)
+[Data](https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata/GDPDATA)
