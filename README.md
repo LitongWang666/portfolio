@@ -9,12 +9,6 @@ You should probably hire me
 # Data
 [My data](/litongwdataviz2.md)
 # GDP
-[Data](<script type='module' 
-         src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz 
-        id='tableau-viz' src='https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata2/GDPDATA' 
-        width='1172'
-        height='819'
-        hide-tabs 
-        toolbar='bottom' ></tableau-viz>)
+[Data](https://public.tableau.com/views/GDPdata2/GDPDATA?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 # GDP 2
 [Data2](https://us-east-1.online.tableau.com/t/litongw-7d2b6b9974/views/GDPdata2/GDPDATA)
