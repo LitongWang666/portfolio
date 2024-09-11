@@ -8,6 +8,7 @@ I want to learn visualization and how to make data clear and easy to read
 You should probably hire me
 # Data
 [My data](/litongwdataviz2.md)
+![export-2024-09-11T00_23_48 532Z](https://github.com/user-attachments/assets/9241d928-0356-4a3e-829c-d47916527013)
 # GDP
 <div class='tableauPlaceholder' id='viz1726015826575' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GD&#47;GDPdata2&#47;GDPDATA&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GDPdata2&#47;GDPDATA' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GD&#47;GDPdata2&#47;GDPDATA&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>                
 <script type='text/javascript'>                    
