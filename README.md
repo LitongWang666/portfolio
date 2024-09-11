@@ -29,6 +29,4 @@ You should probably hire me
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-# Description
 From this visualization, it is clear that Japan has the highest peak GDP Value of 238.2, and it can be clearly seen that GDP is in the top 10 countries from 1995-2019. These are also the reasons why I chose the Area Chart.
