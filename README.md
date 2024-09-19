@@ -15,9 +15,9 @@ We cleaned the dataset and we numericized the payroll fields in the dataset to e
 Create a bar chart. Use two bar charts to represent the salary levels of the athletes on and off the field.
 # Detailed Step 4
 Use colors to visualize the total salary.
-<div align="center">
+
 <img src="https://github.com/LitongWang666/portfolio/blob/main/Forbes%20Athlete%20Salary%20Level%20Analysis.png">
-<\div>
+
 
 # Test the solution
 # Test 1:
