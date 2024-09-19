@@ -19,3 +19,18 @@ Use colors to visualize the total salary.
 <img src="https://github.com/LitongWang666/portfolio/blob/main/Forbes%20Athlete%20Salary%20Level%20Analysis.png">
 <\div>
 
+# Test the solution
+# Test 1:
+- Can you tell me what you think this is?
+  A：The situation of players' salaries.
+- Can you describe to me what this is telling you?
+  A：Athletes are paid differently on and off the field.
+- Is there anything you find surprising or confusing?
+  A：There seems to be a bit too many data entries, are they all necessary?
+# Test 2:
+- Can you tell me what you think this is?
+  A：What looks to be the earnings of stars in the sports industry.
+- Can you describe to me what this is telling you?
+  A：There's still a pretty big difference in athletes' pay scales.
+- Is there anything you find surprising or confusing?
+  A：I've found out that Ronaldo seems to get paid the most...
