@@ -19,6 +19,7 @@ Create a bar chart. Use two bar charts to represent the salary levels of the ath
 Use colors to visualize the total salary.
 
 <img src="Forbes Athlete Salary Level Analysis.png">
+
 # Step 2:
 
 Source Website:https://www.forbes.com/lists/athletes/?sh=69bf004f5b7e
