@@ -23,7 +23,9 @@ Use colors to visualize the total salary.
 # Step 2:
 
 Source Website:https://www.forbes.com/lists/athletes/?sh=69bf004f5b7e
+
 <img src="sourcewebsite.png">
+
 Using Stephen Few's Data Visualization Effectiveness Profile to critique the selected visualization:
 
 1. **Usefulness**
